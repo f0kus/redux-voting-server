@@ -25,5 +25,9 @@
   },
   "dependencies": {
     "immutable": "^3.8.1"
+  },
+  "repository" : {
+    "type": "git",
+    "url": "git@github.com:f0kus/redux-voting-server.git"
   }
 }
